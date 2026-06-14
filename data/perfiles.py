@@ -1,0 +1,15 @@
+PERFILES = [
+    {"nombre": "Alexis", "foto": "assets/images/alexis.png"},
+    {"nombre": "Alvaro", "foto": "assets/images/alvaro.png"},
+    {"nombre": "Pablo", "foto": "assets/images/pablo.png"},
+    {"nombre": "Esteban", "foto": "assets/images/esteban.png"},
+    {"nombre": "Juan", "foto": "assets/images/juan.png"},
+    {"nombre": "Antonio", "foto": "assets/images/antonio.png"},
+    {"nombre": "Rocio", "foto": "assets/images/rocio.png"},
+    {"nombre": "Manuel", "foto": "assets/images/manuel.png"},
+    {"nombre": "Raul", "foto": "assets/images/raul.png"},
+    {"nombre": "Enrique", "foto": "assets/images/enrique.png"},
+    {"nombre": "Victor", "foto": "assets/images/victor.png"},
+    {"nombre": "Antoñito", "foto": "assets/images/antonito.png"},
+    {"nombre": "Juani", "foto": "assets/images/juani.png"},
+]
